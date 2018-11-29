@@ -3,5 +3,4 @@ My first repository
 
 Hi!
 
-My name is Gin and I am going to do a lot of coding!
-P.s. my favourite food is potatoes:) 
+My name is Gin. Welcome to my Github page!
